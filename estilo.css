@@ -1,0 +1,11 @@
+body{
+    background-color: #b96d6d;
+    text-align: justify;
+}
+#titulo{
+    text-align: center;
+}
+#subtitulo{
+    text-decoration: underline;
+    text-align:center;
+}
